@@ -56,3 +56,9 @@ img.fondo{
 hr.corto{
     width: 70%;
 }
+span.menu:hover{
+   
+    background-color: lightblue;
+    color: black;
+    
+}
